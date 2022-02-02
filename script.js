@@ -83,3 +83,5 @@ addItem();
 setTimeout(() => {
 	localStorage.removeItem('item');
 }, 6000);
+
+// this is kinda working
